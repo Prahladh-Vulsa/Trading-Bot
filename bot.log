@@ -1,0 +1,4 @@
+2026-07-11 08:11:14,068 [INFO] TradingBot: Successfully loaded API credentials from Colab Secrets.
+2026-07-11 08:11:28,450 [ERROR] TradingBot: Input validation failure for request: 1 validation error for OrderInput
+  Value error, Price is strictly required for LIMIT orders. [type=value_error, input_value={'symbol': 'BTCUSDT', 'si...y': 0.01, 'price': None}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/value_error
